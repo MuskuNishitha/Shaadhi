@@ -1,0 +1,355 @@
+#firstdiv{
+    top:0px;
+    position: absolute;
+}
+#maindiv{
+    top:10px;
+    position: relative;
+    color:white;
+    font-size: 20px;
+}
+#login{
+    top:10px;
+    position:absolute;
+    display: flex;
+    margin-left: 1100px;
+    margin-top: -20px;
+}
+#main{
+    display: flex;
+}
+#div{
+    margin-left: 30px;
+}
+#maindiv2{
+    top:250px;
+    position: relative;
+    color:white;
+    
+}
+
+#h1{
+  text-align: center;
+  font-size:30px;
+  font-family:  Raleway,sans-serif;
+  justify-content:space-between;
+}
+#select{
+    width:150px;
+    height:40px;
+    border-radius: 5px ;
+}
+#innerdiv{
+    display: flex;
+    justify-content: center;
+}
+
+
+.begin{
+
+    background-color:rgb(53, 170, 216);
+    border: 1px solid rgb(53, 170, 216);
+    color:white;
+}
+.begin:hover{
+    background-color: blue;
+    border: 1px solid blue;
+}
+#heyyy{
+    top:700px;
+    position: absolute;
+}
+#hr{
+    width:250px;
+    border:1px solid #ff5a60;
+    padding-left: 40px;
+    margin-right: 70px;
+}
+#stop{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -30px;
+    color:#ff5a60;
+    font-family:  Raleway,sans-serif;
+}
+#innerdiv3{
+    display: flex;
+    justify-content:space-around;
+    margin-left: 300px;
+}
+#iner2{
+    margin-left: 80px;
+}
+#top{
+  margin-top:-80px;
+}
+#live{
+    margin-left: 20px;
+}
+#divmaindiv{
+    top:1100px;
+    position: relative;
+   height:500px;
+    width:1350px;
+    background-color: white;
+    
+    border: 1px solid white;
+    
+}
+#flex{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.internet{
+    color:rgb(33, 187, 248);
+   padding-left: 40px;
+}
+#find{
+    text-align: center;
+    color:#ff5a60;
+    font-size: 35px;
+}
+
+#flex p{
+    font-size: 17px;
+}
+#divan{
+    top:1150px;
+    position: relative;
+}
+#flex1{
+    display: flex;
+    margin-left: 120px;
+}
+#one{
+    border:1px solid white;
+    box-shadow: 0px 0px 3px black;
+    width:300px;
+    height:450px;
+}
+#two{
+    border:1px solid white;
+    box-shadow: 0px 0px 3px black;
+    width:300px;
+    height:450px; 
+    margin-left: 50px;
+}
+#three{
+    border:1px solid white;
+    box-shadow: 0px 0px 3px black;
+    width:300px;
+    height:450px;   
+    margin-left:50px;
+}
+#three:hover{
+   /* height:460px;*/
+   box-shadow: 0px 0px 20px black;
+    
+}
+#two:hover{
+    /*height:460px;*/  
+    box-shadow: 0px 0px 20px black;
+}
+#one:hover{
+   /* height:460px; */ 
+   box-shadow: 0px 0px 20px black;
+}
+#matri{
+    text-align: center;
+    color:#ff5a60;
+    font-size: 35px;
+}
+#we{
+    top:1200px;
+    position: relative;
+    width:1350px;
+    height:80px;
+    border:1px solid #ff5a60;
+    background-color: #ff5a60;
+    color:white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+}
+#set{
+    width:150px;
+    height:40px;
+    border: 1px solid white;
+    color:white;
+    background-color: #ff5a60;
+    margin-left: 30px;
+    margin-top: 18px;
+    font-size: 18px;
+}
+#set:hover{
+    background-color: white;
+    color:rgb(11, 170, 11);
+}
+#footer{
+    top:1300px;
+    position: relative;
+}
+#footer hr{
+    width:300px;
+}
+#inerrrrr{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#fotter1{
+    padding-left: 500px;
+    padding-top: 60px;
+}
+#lastone{
+    margin-left: 10px;
+}
+#footer p{
+    padding-left: 70px;
+}
+#footer a:hover{
+    text-decoration: underline;
+}
+.a{
+
+    color:rgb(70, 159, 194);
+}
+#india{
+    text-align: center;
+    color:#ff5a60;
+    font-size: 35px;  
+}
+#conatiner{
+    top:1400px;
+    position: relative;
+}
+#down{
+    width:1350px;
+    height:80px;
+    display: flex;
+   padding-left: 400px;
+    border:1px ssolid gainsboro;
+    background-color: gainsboro;
+    font-size:25px;
+    color:#ff5a60
+
+}
+#i1{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+#app{
+    top:1500px;
+    position: relative;
+}
+#app hr{
+
+    width:360px;
+}
+#app1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#app1 p{
+
+    padding-left: 100px;
+}
+#no{
+    text-align: center;
+    color:#ff5a60;
+    font-size: 35px;      
+}
+#app1 a:hover{
+text-decoration: underline;
+}
+#all{
+    color:rgb(62, 164, 204);
+}
+#shaadi{
+    top:1630px;
+    position: relative;
+}
+#center{
+    margin: auto;
+    padding-left: 530px;
+}
+#shaadi a{
+    color:rgb(44, 164, 211);
+}
+#anchar{
+    text-align: center;
+}
+#shaadi p{
+    padding-left: 20px;
+}
+#more{
+    padding-left: 20px;
+}
+#contenar{
+    top:1700px;
+    position: relative;
+}
+#hr2{
+    width:800px;
+}
+#trust{
+
+    text-align: center;
+    margin-left: 600px;
+    background-color: rgb(47, 157, 201);
+    border:1px solid  rgb(47, 157, 201);
+    width:200px;
+    height:30px;
+    color:white;
+    font-size: 18px;
+}
+#hlo{
+
+    display: flex;
+    justify-content: center;
+   
+}
+.d{
+    display: flex;
+}
+#foooooter{
+    top:1750px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    
+}
+#foooooter hr{
+    width:150px;
+    
+}
+#foooooter a{
+    color: rgb(105, 105,105);
+}
+#foooooter a:hover{
+    text-decoration: underline;
+}
+#lastbut{
+    top:1800px;
+    position: relative;
+    display: flex;
+width:1350px;
+height:50px;
+border: 1px solid gainsboro;
+background-color: gainsboro;
+color:rgb(105,105,105);
+justify-content: space-between;
+}
+#people{
+    color:blue;
+}
+#people:hover{
+    text-decoration: underline;
+}
+.vip{
+
+    padding-right: 30px
+}
